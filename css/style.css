@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Playfair+Display&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Playfair+Display&family=Roboto+Condensed&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Playfair+Display&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Playfair+Display&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Oswald:wght@600&family=Playfair+Display&display=swap');
+
+.container{
+   width: 100%;
+}
+
+/* .row{
+    display: flex;
+    flex-direction: row;
+} */
+
+.cover{
+    background-color: #0E0F19;
+    
+}
+
+.link{
+    margin-top: 12px;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+ .title{
+    font-family: 'DynaPuff', cursive;
+    
+  
+     font-size: 50px; 
+ } 
+
+/* .lili{
+    font-family: 'DynaPuff', cursive;
+} */
+
+ .subtitle{
+    font-family: 'Roboto Condensed', sans-serif;
+} 
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about{
+    background-color: rgb(46, 44, 44);
+    display: flex;
+    flex-direction: row;
+}
+
+
+.title-hero{
+    font-family: 'DynaPuff', cursive;
+    font-weight: 200;
+}
+
+.par{
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    
+}
+
+.lang{
+    display: flex;
+    flex-direction: row;
+}
+
+.skills{
+    background-color: rgb(10, 10, 58);
+}
+
+.premier{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.deuxieme{
+    display: flex;
+    flex-direction: row;
+}
+
+.navi.hover{
+    color: yellow;
+}
+
+.one, .two{
+    text-align: center;
+    border-bottom: 3px solid yellow;
+}
+
+.three, .four{
+    text-align: center;
+}
+.three{
+    border-right: 3px solid yellow;
+}
+
+.lele{
+    margin-top: -50px;
+}
+
+.one{
+    border-right: 3px solid yellow;
+}
+
+.completed-project{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.much{
+    background-color: rgb(2, 2, 73);
+}
+
+/* .img4{
+    margin-left: 10px;
+}
+
+.img5{
+    margin-left: 20px;
+} */
+
+.tasswira{
+    width:470px;
+    margin-top: 40px;;
+}
+
+footer{
+    height: 150px;
+    background-color: black;
+}
